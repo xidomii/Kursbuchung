@@ -1,4 +1,4 @@
 MYSQL_HOST = 'localhost'
-MYSQL_USER = 'root'
-MYSQL_PASSWORD = ''
+MYSQL_USER = 'domi'
+MYSQL_PASSWORD = '0407'
 MYSQL_DB = 'buchungssystem'
