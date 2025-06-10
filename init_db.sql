@@ -26,3 +26,4 @@ CREATE TABLE IF NOT EXISTS buchungen (
     FOREIGN KEY (kurs_id) REFERENCES kurse(id),
     FOREIGN KEY (benutzer_id) REFERENCES benutzer(id)
 );
+-- fertiger code
